@@ -4,7 +4,7 @@
 
 # Craft Me Up
 
-## Un jeu créé en C#
+## Un jeu créé en C# WinForms, recréé dans Godot
 
 <br><br><br>
 
