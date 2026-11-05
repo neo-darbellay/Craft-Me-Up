@@ -1,3 +1,6 @@
+# Files that regenerate
+*.import
+
 # Godot 4.2+ specific ignores
 ~*.dll
 
